@@ -15,7 +15,7 @@ import {
     LayoutProvider
 } from 'recyclerlistview';
 import Triangle from 'react-native-triangle';
-import _ from 'lodash';
+import _ from 'module:lodash';
 import {
     responsiveFontSize
 } from 'react-native-responsive-dimensions';
